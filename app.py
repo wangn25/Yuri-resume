@@ -74,7 +74,7 @@ for index, (platform, link) in enumerate(SOCIAL_MEDIA.items()):
 
 # --- EXPERIENCE & QUALIFICATIONS ---
 
-st.markdown("------")
+st.markdown("---")
 
 st.write('\n')
 st.subheader("Experience & Qulifications")
@@ -111,7 +111,7 @@ st.subheader("Work History")
 st.write("---")
 
 # --- JOB 1
-st.write("🚧", "**Black belt- Genpact LDT**")
+st.write("🌊", "**Black belt- Genpact LDT**")
 st.write("2021/7 - Present")
 st.write(
     """
@@ -129,7 +129,7 @@ st.write(
 
 # --- JOB 2
 st.write('\n')
-st.write("🚧", "**Project Manager-Genpact CS**")
+st.write("🌊", "**Project Manager-Genpact CS**")
 st.write("2018/04-2021/06")
 st.write(
     """
@@ -146,7 +146,7 @@ st.write(
 
 # --- JOB 3
 st.write('\n')
-st.write("🚧", "**Project Manager-Genpact ITMS**")
+st.write("🌊", "**Project Manager-Genpact ITMS**")
 st.write("2017/01-2018/04")
 st.write(
     """
@@ -164,7 +164,7 @@ APAC regional leader of IT helpdesk support center.
 
 # --- JOB 4
 st.write('\n')
-st.write("🚧", "**Solution Assistant Manager-Genpact ITMS**")
+st.write("🌊", "**Solution Assistant Manager-Genpact ITMS**")
 st.write("2015/8-2017/1")
 st.write(
     """
@@ -179,7 +179,7 @@ st.write(
 
 # --- JOB 5
 st.write('\n')
-st.write("🚧", "**Subject Matter Expert HP-GSD**")
+st.write("🍦", "**Subject Matter Expert HP-GSD**")
 st.write("2012/03-2015/08")
 st.write(
     """
