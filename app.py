@@ -1,7 +1,7 @@
 import streamlit as st
 from pathlib import Path
 from PIL import Image
-from streamlit_lottie import st_lottie
+
 
 
 #---path settings---
