@@ -29,7 +29,7 @@ Strong analytical skill and good at MySQL, PowerQuery, PowerPivot, Automate& Pow
 EMAIL = "swat_2046@hotmail.com"
 SOCIAL_MEDIA = {
    
-    "***🗿Need GPT support🗿***": "https://yuri-knowledgegpt.streamlit.app/",
+    "**🌟Need GPT support🌟**": "https://yuri-knowledgegpt.streamlit.app/",
     "GitHub": "https://github.com",
    
 }
