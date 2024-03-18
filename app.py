@@ -24,8 +24,7 @@ Working experience on **full cycle of project management** both domestic& global
 EMAIL = "swat_2046@hotmail.com"
 SOCIAL_MEDIA = {
    
-    "🗿Try something new? 🗿
-    Need GPT support": "https://yuri-knowledgegpt.streamlit.app/",
+    "<h1>🗿Try something new? Need GPT support<h1>": "https://yuri-knowledgegpt.streamlit.app/",
     "GitHub": "https://github.com",
    
 }
