@@ -24,7 +24,7 @@ Working experience on **full cycle of project management** both domestic& global
 EMAIL = "swat_2046@hotmail.com"
 SOCIAL_MEDIA = {
    
-    "LinkedIn": "https://linkedin.com",
+    "Try something new? :moyai:Need GPT support": "https://yuri-knowledgegpt.streamlit.app/",
     "GitHub": "https://github.com",
    
 }
