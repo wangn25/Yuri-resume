@@ -22,7 +22,7 @@ Working experience on full cycle of project management both domestic& global pro
 
 Strong communication skills with good command of both spoken and written English. Ability to multi-task and prioritize work. Ability to deliver result within tight timeframe. 
 Strong analytical skill and good at MySQL, PowerQuery, PowerPivot, Automate& Powerapps, proficient in PowerBI dashboard design and deployment. 
-**Python user on AI app Dev& data analysis orientation.**
+**Python user on AI app Dev& data analysis orientation, experienced in LLM application development, Azure OpenAI API integration, and private GPT hosting**
 
 """
 )
@@ -87,6 +87,7 @@ st.subheader("Experience & Qulifications")
 
 st.write(
     """
+- ✔️ 3 years experiences in AI automation, LLM, Gnerative AI research& develpment  
 - ✔️ Good people management skill and leadership skill  
 - ✔️ 7 Years expereince extracting actionable insights from data
 - ✔️ Strong hands on experience and knowledge in data visualizaion, automation
