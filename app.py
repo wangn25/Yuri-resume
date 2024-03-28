@@ -18,7 +18,7 @@ NAME = "Yuri Wang"
 DESCRIPTION =(
      """
 Working experience on full cycle of project management both domestic& global projects.
-11 years of pre-sale solution and transition and IT helpdesk operation management and project management experience. Good people management skill and leadership skill with strong teamwork spirit.
+Overall 11 years of pre-sale solution and transition and IT helpdesk operation management along with project management experiences, good people management skill and leadership skill with strong teamwork spirit.
 
 Strong communication skills with good command of both spoken and written English. Ability to multi-task and prioritize work. Ability to deliver result within tight timeframe. 
 Strong analytical skill and good at MySQL, PowerQuery, PowerPivot, Automate& Powerapps, proficient in PowerBI dashboard design and deployment. 
