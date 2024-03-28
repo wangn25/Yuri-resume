@@ -87,7 +87,7 @@ st.subheader("Experience & Qulifications")
 
 st.write(
     """
-- ✔️ 3 years experiences in AI automation, LLM, Gnerative AI research& develpment  
+- ✔️ 3 years experiences in AI automation, LLM, Generative AI research& develpment  
 - ✔️ Good people management skill and leadership skill  
 - ✔️ 7 Years expereince extracting actionable insights from data
 - ✔️ Strong hands on experience and knowledge in data visualizaion, automation
